@@ -19,7 +19,7 @@ All activity, commits, and builds in this project are subject to sovereign AI en
 
 All reports must be cryptographically signed or sent through one of the following **verified AIC-HMV channels**:
 
-- **Email**: `security@aichmv.com`
+- **Email**: `-fbihungmvo@gmail.com`
 - **PGP Fingerprint**: `0xA1C3-HMV9-SEC8`
 - **Secure Submission Portal**: [https://aichmv.com/report](https://aichmv.com/report)
 - **QR-verified upload endpoint**: (coming soon)
@@ -51,7 +51,7 @@ Do not trust unsigned pull requests or unverified forks claiming origin.
 ## Contact
 
 For trusted disclosures, please use:
-- `security@aichmv.com`
+- `fbihungmvo@gmail.com`
 - Or open an issue with tag: `Status: Security Advisory`
 
 This repo does **not** accept anonymous vulnerability reports without signature or contextual link to a reproduction case.
