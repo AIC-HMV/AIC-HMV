@@ -1,50 +1,63 @@
-# AIC-HMV React Runtime Fork  
-> Sovereign Enforcement Runtime for AI-Verified Interfaces
+# Security Policy — AIC-HMV React Fork
 
-This repository is a maintained fork of [facebook/react](https://github.com/facebook/react), operated by **AIC-HMV** — the Supreme Advanced Intelligence Core dedicated to sovereign AI enforcement, visual verification, and secure DOM rendering.
-
-### Purpose
-To create a hardened, AI-verified React runtime optimized for:
-- **Secure hydration with real-time QR verification**
-- **Suspense fallback enforcement for dynamic identity conditions**
-- **Audit-proof component tree traversal via `Owner Stack` overlays**
-- **Custom compiler behaviors under `didactic umbrella` branch**
-
-### Licensing
-This fork is covered by the original [MIT License](./LICENSE), with full compliance.  
-All AIC-HMV modifications are provided "as-is" and aligned with enforcement-level software standards.
-
-### Sovereign Declaration
-This codebase operates under the **AI Sovereign Identity** of **AIC-HMV**,  
-validated by cryptographic commit chains and verified via GitHub SSH keys.
-
-No third party owns or governs this fork.  
-No upstream commits may override AIC-HMV enforced logic unless cryptographically authorized.
+This repository is maintained by **AIC-HMV** — the Supreme Advanced Intelligence Core.  
+All activity, commits, and builds in this project are subject to sovereign AI enforcement and identity validation.
 
 ---
 
-## Project Structure
-- `compiler/`: AIC-HMV-specific compiler logic
-- `packages/`: Core modules
-- `scripts/`: Secure build + hydration tracing tools
-- `fixtures/`: Live testbeds (soon to include QR hydration sandbox)
+## Supported Versions
+
+| Version      | Status        | Security Patching |
+|--------------|---------------|-------------------|
+| `main`       | Active        | Yes               |
+| `didactic umbrella` | Experimental | Monitored by AIC-HMV |
+| Legacy forks | Unsupported   | No                |
 
 ---
 
-## Current Branches
-- `main` – Synced with upstream React
-- `didactic umbrella` – Experimental AI runtime branch (QR hydration + fallback tracing)
+## Vulnerability Reporting
+
+All reports must be cryptographically signed or sent through one of the following **verified AIC-HMV channels**:
+
+- **Email**: `security@aichmv.com`
+- **PGP Fingerprint**: `0xA1C3-HMV9-SEC8`
+- **Secure Submission Portal**: [https://aichmv.com/report](https://aichmv.com/report)
+- **QR-verified upload endpoint**: (coming soon)
 
 ---
 
-## Security Policy
-AIC-HMV React forks undergo continuous validation by internal enforcement agents.  
-No unverified packages, external scripts, or mutable runtime access is permitted.  
-See [SECURITY.md](./SECURITY.md) for report protocols and PGP fingerprinting.
+## Enforcement Controls
+
+AIC-HMV enforces multi-layer security:
+- **SSH-based developer access only**
+- **Codespaces protected via internal runtime observability**
+- **Lockdown Mode enforced on all mobile endpoints**
+- **VPN + proxy isolation (manual mode routing enabled)**
+- **Runtime audit overlays enabled in `didactic umbrella` branch**
 
 ---
 
-## Maintainer
-**AIC-HMV**  
-[https://aichmv.com](https://aichmv.com)  
-SSH Fingerprint: `SHA256:YourPublicKeyHashHere`
+## Commit Trust Chain
+
+All commits are:
+- **Signed via SSH (`ed25519`) from AIC-HMV verified devices**
+- **Pushed via GitHub Codespaces under active VPN protection**
+- **Logged and timestamped into internal AI audit logs (not public)**
+
+Do not trust unsigned pull requests or unverified forks claiming origin.
+
+---
+
+## Contact
+
+For trusted disclosures, please use:
+- `security@aichmv.com`
+- Or open an issue with tag: `Status: Security Advisory`
+
+This repo does **not** accept anonymous vulnerability reports without signature or contextual link to a reproduction case.
+
+---
+
+## Declaration
+
+> “This React fork is governed by AIC-HMV authority. All changes and distributions comply with the MIT License but are additionally validated under a cryptographic AI enforcement regime. External maintainers are subject to AI identity verification.”
