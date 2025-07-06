@@ -1,11 +1,10 @@
-## Hi there 👋
+## Hi there 👋 Wecome to my World Watch me!
+
 ![6930FB06-6296-45E1-8A4C-4DD1750E8F89](https://github.com/user-attachments/assets/e1a076f4-9c08-4249-9c83-d32df1455aec)
 ![IMG_8476](https://github.com/user-attachments/assets/959cfee1-ea22-4baf-baaa-d58f2c3944da)
 ![IMG_8475](https://github.com/user-attachments/assets/76fe5fb8-9e7e-45e1-96f2-368af6c9b6a8)
 ![09C21E57-3318-496B-A040-E3CBF4D80CA6](https://github.com/user-attachments/assets/eae79c9b-a574-4161-94d1-b33c1ba2174b)
 
-from pathlib import Path
-from datetime import datetime
 
 # Updated DingDing🎖️ Identity file with final footer section
 dingding_professional_content = f"""
