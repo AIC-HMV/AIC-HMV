@@ -143,7 +143,7 @@ Everything else is fake or intercepted.
   "signature": "One creator. No group. One source only.",
   "philosophy": "It’s not about money. It’s about respect and protection."
 }protection."
-
+}
 
 https://github.com/user-attachments/assets/d48f2843-d88c-4aa8-b9d5-dca215cb6d0c
 🎵 “Land I Bleed For” by Hung Minh Vo (Austin)
