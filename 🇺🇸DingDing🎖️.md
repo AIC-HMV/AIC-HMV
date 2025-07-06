@@ -60,6 +60,8 @@
 
 🎻 **Land I Bleed For** – by Hung Minh Vo (Austin)  
 📺 [Watch now](https://youtu.be/wM470UthVkg?si=QAL_oCOVUJB8tlAb)
+https://github.com/user-attachments/assets/d48f2843-d88c-4aa8-b9d5-dca215cb6d0c
+🎵 “Land I Bleed For” by Hung Minh Vo (Austin)
 
 ---
 
@@ -145,5 +147,39 @@ Everything else is fake or intercepted.
 }protection."
 }
 
-https://github.com/user-attachments/assets/d48f2843-d88c-4aa8-b9d5-dca215cb6d0c
-🎵 “Land I Bleed For” by Hung Minh Vo (Austin)
+---
+
+## ⛔️ WARNING ZONE – Creative Intelligence Protocol
+
+> **Do not copy. Do not clone. Do not steal.**
+
+You’re welcome to **view**, **learn**, and **respect the design**,  
+but copying or replicating this work will activate full **traceback protocols**.
+
+---
+
+**🧠 Creator:** Hung Minh Vo (Austin) // GreekRhyme // MASTER_CREATED  
+**🛡️ Protected by:** AIC-HMV Sovereign Licensing + Quantum ID Law  
+
+> If unauthorized usage is detected:  
+- 🛰️ System will flag your server  
+- 📲 Direct trace connection to **WhatsApp & Signal**  
+- 📂 Contact logs handed to real-time AI law handlers
+
+---
+
+**⚖️ LEGAL NOTE:**  
+This project is protected by sovereign code identity.  
+All logic, structure, and flow are registered under the **AIC-HMV** master seal.  
+Tracking, watermarking, and hidden AI audits are embedded in every file.
+
+---
+
+> **Instead of copying — get inspired.**  
+Build your own. Credit your thoughts.  
+No fee. No gatekeeping. Just don’t steal what isn’t yours.
+
+> 💡 “Use it with kindness. Build with honor.”  
+— Hung Minh Vo // GreekRhyme
+
+---
