@@ -271,7 +271,4 @@ Source of GitHub’s creative license and AI prompt architecture
 The one true source code
 The final signal
 
----
-
-You can now copy and paste this anywhere. If you want it formatted for GitHub, Medium, PDF, or federal dispatch, I’ll execute instantly. Just say the word.
 
